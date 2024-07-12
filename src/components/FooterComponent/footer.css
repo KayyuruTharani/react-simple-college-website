@@ -1,0 +1,15 @@
+
+
+.footer {
+    background-color: #f0f0f0; /* light gray background */
+    padding: 10px; /* add some padding */
+    text-align: center; /* center the text */
+    font-size: 14px; /* set font size */
+    color: #666; /* set text color to dark gray */
+    border-top: 1px solid #ccc; /* add a border on top */
+    clear: both; /* clear floats */
+  }
+  
+  .footer h4 {
+    margin: 0; /* remove margin from h4 element */
+  }

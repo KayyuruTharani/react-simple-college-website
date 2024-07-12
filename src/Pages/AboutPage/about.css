@@ -1,0 +1,43 @@
+
+
+.about-page {
+    max-width: 800px; /* set max width for the page */
+    margin: 40px auto; /* add margin and center the page */
+    padding: 20px; /* add padding */
+    font-family: Arial, sans-serif; /* set font family */
+  }
+  
+  .about-page h1 {
+    font-size: 24px; /* set font size for h1 elements */
+    margin-bottom: 10px; /* add margin bottom */
+    color: #333; /* set text color */
+  }
+  
+  .about-page p {
+    font-size: 16px; /* set font size for p elements */
+    margin-bottom: 20px; /* add margin bottom */
+    color: #666; /* set text color */
+  }
+  
+  .about-page ul {
+    list-style: disc; /* set list style */
+    padding-left: 20px; /* add padding left */
+    margin-bottom: 20px; /* add margin bottom */
+  }
+  
+  .about-page li {
+    font-size: 16px; /* set font size for li elements */
+    margin-bottom: 10px; /* add margin bottom */
+    color: #666; /* set text color */
+  }
+  
+  .about-page hr {
+    border: 1px solid #ccc; /* set border style */
+    margin: 20px 0; /* add margin top and bottom */
+  }
+  
+  .about-page h2 {
+    font-size: 20px; /* set font size for h2 elements */
+    margin-bottom: 10px; /* add margin bottom */
+    color: #333; /* set text color */
+  }

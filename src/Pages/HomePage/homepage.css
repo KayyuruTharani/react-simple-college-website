@@ -1,0 +1,36 @@
+
+
+.homepage {
+    max-width:1200px;
+    max-height: 800px; /* set max width for the page */
+    margin: 80px auto; /* add margin and center the page */
+    padding: 90px; /* add padding */
+    font-family: Arial, sans-serif; /* set font family */
+  }
+  .homepage img {
+    display:inline-block;
+    width: 100%; /* set image width to 100% of the container */
+    height: 500px; /* set image height */
+    border-radius: 10px; /* add border radius to the image */
+    margin-bottom: 20px; /* add margin bottom */
+  }
+  .homepage h1 {
+    font-size: 36px; /* set font size for h1 elements */
+    margin-top: 10px; /* add margin bottom */
+    color: #333; /* set text color */
+    text-align: center; /* center the heading */
+  }
+  
+  .homepage div {
+    background-color: #f7f7f7; /* set background color for the container */
+    padding: 20px; /* add padding */
+    border: 1px solid #ddd; /* add border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* add box shadow */
+    margin-bottom: 20px; /* add margin bottom */
+  }
+  
+  .homepage div h1 {
+    font-size: 24px; /* set font size for h1 elements inside the container */
+    margin-top: 50px; /* add margin bottom */
+    color: #3da4d3; /* set text color */
+  }

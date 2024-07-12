@@ -1,0 +1,46 @@
+
+
+.department {
+    max-width: 800px; /* set max width for the page */
+    margin: 40px auto; /* add margin and center the page */
+    padding: 20px; /* add padding */
+    font-family: Arial, sans-serif; /* set font family */
+  }
+  
+  .department h1 {
+    font-size: 24px; /* set font size for h1 elements */
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center; /* add margin bottom */
+    color: #333; /* set text color */
+  }
+  
+  .department table {
+    width: 100%; /* set table width to 100% */
+    border-collapse: collapse; /* collapse table borders */
+    margin-bottom: 20px; /* add margin bottom */
+  }
+  
+  .department thead {
+    background-color: #f0f0f0; /* set background color for thead */
+    border-bottom: 1px solid #ccc; /* add border bottom */
+  }
+  
+  .department th {
+    font-size: 16px; /* set font size for th elements */
+    padding: 10px; /* add padding */
+    text-align: left; /* set text alignment to left */
+  }
+  
+  .department tbody tr {
+    border-bottom: 1px solid #ccc; /* add border bottom for each row */
+  }
+  
+  .department td {
+    font-size: 16px; /* set font size for td elements */
+    padding: 10px; /* add padding */
+    text-align: left;
+    align-items: center; /* set text alignment to left */
+  }
+  
+  

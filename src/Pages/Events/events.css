@@ -1,0 +1,39 @@
+
+
+
+.events {
+    max-width: 800px; /* set max width for the page */
+    margin: 40px auto; /* add margin and center the page */
+    padding: 20px; /* add padding */
+    font-family: Arial, sans-serif; /* set font family */
+  }
+  
+  .events h1 {
+    font-size: 36px; /* set font size for h1 elements */
+    margin-bottom: 20px; /* add margin bottom */
+    color: #333; /* set text color */
+  }
+  
+  .events h2 {
+    font-size: 24px; /* set font size for h2 elements */
+    margin-bottom: 10px; /* add margin bottom */
+    color: #666; /* set text color */
+  }
+  
+  .events img {
+    width: 200px; /* set image width */
+    height: 150px; /* set image height */
+    object-fit: cover; /* make the image cover the entire container */
+    border-radius: 10px; /* add border radius to the image */
+    margin: 20px; /* add margin */
+  }
+  
+  .events p {
+    font-size: 18px; /* set font size for p elements */
+    margin-bottom: 20px; /* add margin bottom */
+    color: #666; /* set text color */
+  }
+  
+  .events > * {
+    margin-bottom: 40px; /* add margin bottom to each event */
+  }
